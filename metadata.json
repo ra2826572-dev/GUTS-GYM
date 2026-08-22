@@ -1,0 +1,6 @@
+{
+  "name": "GUTS GYM Faisalabad",
+  "description": "GUTS GYM Faisalabad is a premium fitness lounge for ladies and gents located at Misaq ul Mall, Ashrafabad. Train with modern equipment in a motivating environment from 6 AM to midnight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
